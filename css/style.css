@@ -105,14 +105,14 @@ main {
 
 .container {
     max-width: 56.25rem;
+    padding: 1.25rem;
     margin: 0 auto;
     border-radius: .3125rem;
     background-color: white;
 }
 
 .row {
-    height: 3.75rem;
-    padding: .625rem;
+    height: 2.75rem;
     border-bottom: .125rem solid #f6f8f9;
 }
 .fa-sort-down {
@@ -128,6 +128,14 @@ main {
 }
 .orange {
     background-color: #f29e33;
+}
+
+.fucsia {
+    background-color: #d863a1;
+}
+
+.lime {
+    background-color: #b0c926;
 }
 
 .section2 ul {
